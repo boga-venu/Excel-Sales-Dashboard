@@ -31,7 +31,7 @@
   
   ![Excel Dasshboard Category 02](https://github.com/boga-venu/Excel-Sales-Dashboard/assets/174999641/280564e1-ecef-426a-90cf-383749e1bea5)
 
-- Titles are also change according to the selection for more clarity.
+- Titles also changes according to the selection for more clarity.
 
 ## Working 
 
