@@ -3,6 +3,9 @@
  
 ![Excel Dashboard 03](https://github.com/boga-venu/Excel-Sales-Dashboard/assets/174999641/1e87f43c-7712-49dc-8c3f-ea6660994787)
 
+## Objective
+- The main objective of this dashboard is to provide an easy-to-use and easy-to-understand interface for the client. Dashboard should consolidate key sales data and visualize it in a clear and concise manner and enable the client to quickly gain insights based on the presented information.
+  
 ## Features
 - Total sales and revenue overview
 - Monthly sales trends
